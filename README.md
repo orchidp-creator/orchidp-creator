@@ -37,19 +37,13 @@ An open-source framework for video similarity analysis and search using normaliz
 
 | Area | Skills & Tools |
 | --- | --- |
-| **Programming** | Python, SQL, JavaScript, C, C++, HTML, CSS |
-| **Data Science** | Data collection and cleaning, EDA, preprocessing, feature engineering, classification, regression, clustering, model evaluation, error analysis, reproducible experimentation |
-| **AI & ML** | PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers, deep learning, representation learning, transfer learning |
-| **NLP & Generative AI** | GPT, Claude, Gemini, Llama, Qwen, RAG, embeddings, vector search, text classification, sentiment analysis, prompt engineering, instruction tuning, NLTK, SFT, PEFT/LoRA, DPO, vLLM |
+| **Generative AI** | GPT, Claude, Gemini, Llama, Qwen, RAG, embeddings, vector search, text classification, sentiment analysis, prompt engineering, instruction tuning, NLTK, SFT, PEFT/LoRA, DPO, vLLM |
 | **Agentic AI** | LangGraph, LangChain, AutoGen, CrewAI, MCP, multi-agent orchestration, tool/function calling, stateful workflows, context management |
-| **Vision & Multimodal** | Computer vision, video understanding, VideoMAE, ViViT, TimeSformer, OpenCV, visual embeddings, multimodal fusion, audio–visual learning, question answering, similarity search |
-| **Speech & Audio** | SpeechBrain, Librosa, Torchaudio, Whisper, Audio LLMs, speech foundation models, synthetic-speech and deepfake detection, emotion recognition, audio quality assessment, multilingual modeling |
-| **Data & Retrieval** | FAISS, Pinecone, vector databases, Neo4j, PostgreSQL, MySQL, MongoDB, SQLite, Hadoop, Spark ML |
-| **Ops & Cloud** | REST APIs, FastAPI, Django, Flask, Streamlit, Gradio, Pytest, AWS, Google Cloud, Docker, Git, GitHub, MLOps, MLflow, Databricks, CI/CD |
 
-## Selected AI, NLP, Speech & Multimodal Publications
 
-*An asterisk (*) denotes equal contribution, as in the CV.*
+## Selected Publications
+
+* denotes equal contribution, as in the CV.*
 
 1. **Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages.** Orchid Chetia Phukan et al. *IJCAI 2026 (Oral).*
 2. **Bridging the Age Gap: Towards Detecting Neural Audio Codec Synthesized Elderly Speech Deepfake.** Orchid Chetia Phukan et al. *INTERSPEECH 2026 (Oral).*
