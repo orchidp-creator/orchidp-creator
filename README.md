@@ -1,57 +1,97 @@
 <div align="center">
-
-# Orchid Chetia Phukan
-
-### Speech & Audio AI · Multimodal Learning · Trustworthy Machine Learning
-
-**Researcher | IIIT-Delhi | Open-source AI builder**
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/orchidp-creator)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-176B60?style=for-the-badge&logo=githubpages)](https://orchidp-creator.github.io/)
-
+  <img src="assets/cyber-hero.svg" alt="Orchid Chetia Phukan - Cyberpunk AI Researcher Profile" width="100%" />
+  <br/>
+  <a href="https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-RESEARCH_LOG-00F5D4?style=for-the-badge&labelColor=0B1020" alt="Google Scholar" /></a>
+  <a href="https://github.com/orchidp-creator"><img src="https://img.shields.io/badge/GITHUB-SOURCE_CODE-FF4FD8?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" /></a>
+  <a href="mailto:orchidp@iiitd.ac.in"><img src="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Email" /></a>
 </div>
 
----
+<div align="center">
+  <img src="assets/system-status.svg" alt="Animated cyber interface system status" width="100%" />
+</div>
 
-## About me
+## `> PLAYER_PROFILE // ABOUT_ME`
 
-I'm **Orchid Chetia Phukan**, a researcher working at the intersection of **speech and audio processing, behavioral signal processing, audio deepfake detection, and multimodal AI**. I am interested in making audio intelligence more robust, efficient, and accessible, and I enjoy translating research ideas into reproducible open-source tools.
+```yaml
+identity: Orchid Chetia Phukan
+class: AI / ML Researcher + Builder
+specializations:
+  - Speech & Audio Intelligence
+  - Multimodal Learning
+  - Audio Deepfake Detection
+  - Emotion Recognition
+  - Generative & Agentic AI
+  - Video Understanding and Retrieval
+current_quest: "Build reliable, accessible, and intelligent multimodal AI systems"
+status: "RESEARCHING • EXPERIMENTING • SHIPPING"
+```
 
-My work spans speech representation learning, synthetic speech detection, emotion-aware audio systems, and multimodal learning. Beyond research, I build lightweight audio-language-model frameworks and practical AI agents.
+I research and build **machine learning systems that understand sound, language, images, and video**. My work spans **speech foundation models, Audio Language Models (ALMs), affective computing, synthetic-speech detection, multimodal representation learning, and AI agents**. I enjoy taking ideas from data preparation and modeling through evaluation, reproducible experimentation, and working prototypes.
 
-## Research interests
+<div align="center">
+  <img src="assets/research-map.svg" alt="Animated research skill and focus map" width="100%" />
+</div>
 
-`Speech & Audio Processing` · `Audio Deepfake Detection` · `Speech Representation Learning` · `Speech Emotion Recognition` · `Multimodal Learning` · `Audio Language Models` · `AI Agents`
+## `> ACTIVE_MISSIONS // SELECTED_PROJECTS`
 
-## Selected research
+| Quest | Mission briefing | Loadout |
+|:--|:--|:--|
+| **[ECHOAGENT](https://github.com/orchidp-creator/EchoAgent)** | A LangGraph multi-agent system that transforms articles and URLs into sourced, narrated audiobook lessons. [**Live demo ↗**](https://1f26124613fd519eab.v2.appdeploy.ai/) | `Qwen2.5` `LangGraph` `MCP` `gTTS` |
+| **[MINOTAUR](https://github.com/orchidp-creator/Minotaur)** | A modular framework for creating small custom Audio Language Models with learnable projectors and LoRA-enabled adaptation. | `Whisper` `Qwen2` `PyTorch` `LoRA` |
+| **[VIPER](https://github.com/orchidp-creator/Viper-Create-Your-Own-Mamba-Audio-LLM)** | A plug-and-play framework for Mamba-based Audio Language Models with configurable encoders and audio-to-text alignment. | `Mamba` `Hugging Face` `Python` `PEFT` |
+| **[VIDSIM-FX](https://github.com/orchidp-creator/VIDSIM-FX)** | A video-embedding framework for video similarity measurement and scalable retrieval with FAISS. | `VideoMAE` `ViViT` `TimeSformer` `FAISS` |
 
-The following are selected works listed on my research profile. For an up-to-date publication list, visit **[Google Scholar](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en)**.
+<div align="center">
+  <img src="assets/mission-divider.svg" alt="Animated mission complete divider" width="100%" />
+</div>
 
-- **Bridging the Age Gap: Towards Detecting Neural Audio Codec Synthesized Elderly Speech Deepfake** (2026)
-- **Towards Detecting Neural Audio Codec Synthesized Heart Sounds** (2026)
-- **Impact Analysis of Speech Representation Learning Models for Acoustic Side-Channel Attack** (2026)
-- **Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages** (2026)
-- **Investigating Polyglot Speech Foundation Models for Learning Collective Emotion from Crowds** (2025)
-- **SNIFR: Boosting Fine-Grained Child Harmful Content Detection Through Audio-Visual Alignment with Cascaded Cross-Transformer** (2025)
+## `> RESEARCH_ARCHIVE // SELECTED_PUBLICATIONS`
 
-## Open-source projects
+<details open>
+<summary><b>2026 // NEW RECORDS UNLOCKED</b></summary>
+<br/>
 
-| Project | Description |
-| :--- | :--- |
-| **[Minotaur](https://github.com/orchidp-creator/Minotaur)** | Build your own small audio language model with a Whisper encoder, Qwen decoder, and optional LoRA fine-tuning. |
-| **[Viper](https://github.com/orchidp-creator/Viper-Create-Your-Own-Mamba-Audio-LLM)** | Modular audio LLM framework with interchangeable audio encoders and a Mamba language-model decoder. |
-| **[VIDSIM-FX](https://github.com/orchidp-creator/VIDSIM-FX)** | Video embeddings, similarity comparisons, and scalable FAISS retrieval with video foundation models. |
-| **[EchoAgent](https://github.com/orchidp-creator/EchoAgent)** | Agentic workflow that transforms articles into researched, narrated lessons and audiobooks. |
+- **Bridging the SEA Gap: An Initial Benchmark for Neural Audio Codec-Synthesized Speech Deepfakes in South-East Asian Languages** — *IJCAI 2026 (Oral)*.
+- **Bridging the Age Gap: Towards Detecting Neural Audio Codec Synthesized Elderly Speech Deepfake** — *INTERSPEECH 2026 (Oral)*.
+- **Indic-CodecFake meets SATYAM: Towards Detecting Neural Audio Codec Synthesized Speech Deepfakes in Indic Languages** — *ACL Findings 2026* (equal contribution).
+- **VINAYAKA: Multilingual Audio-Visual Hate Speech Detection via Cross-Modal Fusion in Hyperbolic Space** — *INTERSPEECH 2026* (equal contribution).
 
-## Research community
+</details>
 
-My research profile lists publications at venues including **ACL Findings, ICASSP, INTERSPEECH, NAACL Findings, EUSIPCO, and ASONAM**, as well as reviewing and program committee service.
+<details open>
+<summary><b>2025–2024 // PREVIOUS QUESTS</b></summary>
+<br/>
 
-## Connect
+- **SNIFR: Boosting Fine-Grained Child Harmful Content Detection Through Audio-Visual Alignment with Cascaded Cross-Transformer** — *INTERSPEECH 2025*.
+- **Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution** — *ACL Findings 2025*.
+- **Towards Multilingual Audio-Visual Question Answering** — *INTERSPEECH 2024*.
 
-- [Google Scholar — publications and citations](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en)
-- [GitHub — source code and experiments](https://github.com/orchidp-creator)
-- [Portfolio website](https://orchidp-creator.github.io/)
+</details>
 
-<p align="center"><i>Exploring how machines listen, understand, and reason about the world.</i></p>
+> 📡 **Full publication database:** [Google Scholar ↗](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en)  
+> **Publication snapshot (from CV):** 18 papers at CORE A*/A venues and 4 additional Q1/Q2 SCIE journal publications. See Scholar for the current list.
+
+## `> EQUIPMENT // TECH_STACK`
+
+| System | Technologies |
+|:--|:--|
+| **CORE ENGINE** | Python, C/C++, SQL, JavaScript, HTML/CSS, PyTorch, TensorFlow, scikit-learn |
+| **FOUNDATION MODELS** | Hugging Face Transformers, Whisper, Qwen, Llama, GPT, Gemini, Claude, Mamba, PEFT/LoRA, SFT, DPO, vLLM |
+| **AUDIO MODULE** | SpeechBrain, Torchaudio, Librosa, Audio LLMs, speech embeddings, synthetic-speech detection, emotion recognition |
+| **VISION MODULE** | VideoMAE, ViViT, TimeSformer, OpenCV, multimodal fusion |
+| **AGENT NETWORK** | LangGraph, LangChain, AutoGen, CrewAI, MCP, RAG, tool calling |
+| **DATA & SEARCH** | FAISS, Pinecone, Neo4j, PostgreSQL, MySQL, MongoDB, SQLite, Spark ML |
+| **DEPLOYMENT** | FastAPI, Flask, Django, Gradio, Streamlit, Docker, AWS, Google Cloud, GitHub Actions, MLflow |
+
+## `> LIVE_TELEMETRY // GITHUB`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=orchidp-creator&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00F5D4&text_color=CDD6F4&icon_color=FF4FD8" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchidp-creator&layout=compact&hide_border=true&bg_color=0B1020&title_color=00F5D4&text_color=CDD6F4" height="165" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="assets/cyber-footer.svg" alt="Animated cyberpunk outro: End transmission" width="100%" />
+  <p><code>PRESS START → EXPLORE THE REPOS ABOVE</code></p>
+  <a href="https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en">[ RESEARCH ]</a> · <a href="https://github.com/orchidp-creator?tab=repositories">[ PROJECTS ]</a> · <a href="mailto:orchidp@iiitd.ac.in">[ CONTACT ]</a>
+</div>
