@@ -56,7 +56,3 @@ An open-source framework for video similarity analysis and search using normaliz
 **Publication record:** 18 papers in CORE A*/A venues (1 IJCAI, 2 ACL, 14 INTERSPEECH, and 1 NAACL), including 17 first/co-first-authored papers.
 
 For my complete publication list, visit [Google Scholar](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en).
-
----
-
-**Contact:** [Google Scholar](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en)
