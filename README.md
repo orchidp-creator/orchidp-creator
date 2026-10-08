@@ -2,7 +2,7 @@
 
 **AI/ML Researcher | Speech & Audio Intelligence | Multimodal Learning | Generative AI**
 
-[Google Scholar](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en) · [GitHub](https://github.com/orchidp-creator) · [Email](mailto:orchidp@iiitd.ac.in)
+[Email](mailto:orchidp@iiitd.ac.in)
 
 ## Profile
 
@@ -59,4 +59,4 @@ For my complete publication list, visit [Google Scholar](https://scholar.google.
 
 ---
 
-**Contact:** [orchidp@iiitd.ac.in](mailto:orchidp@iiitd.ac.in) · [GitHub](https://github.com/orchidp-creator) · [Google Scholar](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en)
+**Contact:** [Google Scholar](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en)
