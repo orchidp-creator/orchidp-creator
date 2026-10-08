@@ -53,7 +53,7 @@ An open-source framework for video similarity analysis and search using normaliz
 6. **Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution.** Orchid Chetia Phukan et al. *Findings of ACL 2025.*
 7. **Towards Multilingual Audio-Visual Question Answering.** Orchid Chetia Phukan et al. *INTERSPEECH 2024.*
 
-**Publication record:** 18 papers in CORE A*/A venues (1 IJCAI, 2 ACL, 14 INTERSPEECH, and 1 NAACL), including 17 first/co-first-authored papers; four additional Q1/Q2 SCIE journal publications (as reported in my CV).
+**Publication record:** 18 papers in CORE A*/A venues (1 IJCAI, 2 ACL, 14 INTERSPEECH, and 1 NAACL), including 17 first/co-first-authored papers.
 
 For my complete publication list, visit [Google Scholar](https://scholar.google.com/citations?user=EV6cXVIAAAAJ&hl=en).
 
