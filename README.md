@@ -6,9 +6,7 @@
 
 ## Profile
 
-I have 4+ years of experience in AI/ML across machine learning, deep learning, natural language processing, computer vision, speech and audio intelligence, generative AI, and multimodal learning. I build end-to-end solutions involving data collection and cleaning, exploratory analysis, feature and representation learning, model development, evaluation, retrieval, and deployment.
-
-My hands-on experience includes Python, PyTorch, TensorFlow, transformer architectures, foundation models, vector search, REST APIs, and cloud-based workflows.
+Expertise in AI/ML across machine learning, deep learning, natural language processing, computer vision, speech and audio intelligence, generative AI, and multimodal learning.
 
 ## Selected AI Projects
 
